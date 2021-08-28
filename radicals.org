@@ -32,8 +32,8 @@ Legend:
 |   1 | 一 |                |       | yī        | one                         |                    |                                                                                                                  |
 |   2 | 丨 |                |       | gǔn       | line                        |                    |                                                                                                                  |
 |   3 | 丶 |                |       | zhǔ       | dot                         |                    |                                                                                                                  |
-|   4 | 丿 | 乀             |       | piě       | slash/bend                  | 乀,乁              | 乀 is both a variant and derivation.                                                                             |
-|   5 | 乙 | ⺄             |       | yǐ        | second                      | 乚,乛              |                                                                                                                  |
+|   4 | 丿 | 乀             |       | piě       | slash/bend                  | 乀 乁              | 乀 is both a variant and derivation.                                                                             |
+|   5 | 乙 | ⺄             |       | yǐ        | second                      | 乚 乛              |                                                                                                                  |
 |   6 | 亅 |                |       | jué       | hook                        |                    |                                                                                                                  |
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
 |   7 | 二 |                |       | èr        | two                         |                    |                                                                                                                  |
@@ -47,7 +47,7 @@ Legend:
 |  15 | 冫 | ⺀             |       | bīng      | ice                         |                    | ⺀ is also used to designate repetition as in 枣, which is simplified form of 棗.                                |
 |  16 | 几 | ⺇             |       | jī        | table                       |                    |                                                                                                                  |
 |  17 | 凵 |                |       | kǎn       | receptacle                  |                    |                                                                                                                  |
-|  18 | 刀 | ⺈,刂          |       | dāo       | knife                       | 刁                 |                                                                                                                  |
+|  18 | 刀 | ⺈ 刂          |       | dāo       | knife                       | 刁                 |                                                                                                                  |
 |  19 | 力 |                |       | lì        | power                       |                    |                                                                                                                  |
 |  20 | 勹 |                |       | bāo       | wrap                        |                    |                                                                                                                  |
 |  21 | 匕 |                |       | bǐ        | spoon                       |                    |                                                                                                                  |
@@ -69,17 +69,17 @@ Legend:
 |  36 | 夕 |                |       | xī        | evening/sunset              |                    |                                                                                                                  |
 |  37 | 大 |                |       | dà        | big/very                    | 夨                 |                                                                                                                  |
 |  38 | 女 |                |       | nǚ        | woman/female                |                    |                                                                                                                  |
-|  39 | 子 |                |       | zǐ        | child/seed                  | 孑,孒,孓           |                                                                                                                  |
+|  39 | 子 |                |       | zǐ        | child/seed                  | 孑 孒 孓           |                                                                                                                  |
 |  40 | 宀 |                |       | mián      | roof                        |                    |                                                                                                                  |
 |  41 | 寸 |                |       | cùn       | thumb/inch                  |                    |                                                                                                                  |
-|  42 | 小 | ⺌,⺍          |       | xiǎo      | small/insignificant         |                    |                                                                                                                  |
-|  43 | 尢 | ⺑             |       | wāng      | lame                        | ⺎,⺏              |                                                                                                                  |
+|  42 | 小 | ⺌ ⺍          |       | xiǎo      | small/insignificant         |                    |                                                                                                                  |
+|  43 | 尢 | ⺑             |       | wāng      | lame                        | ⺎ ⺏              |                                                                                                                  |
 |  44 | 尸 |                |       | shī       | corps                       |                    |                                                                                                                  |
 |  45 | 屮 | ⼬             |       | chì       | sprout                      |                    |                                                                                                                  |
 |  46 | 山 |                |       | shān      | mountain                    |                    |                                                                                                                  |
 |  47 | 巛 | 川             |       | chuān     | river                       | 巜 (-1 stroke)     |                                                                                                                  |
 |  48 | 工 |                |       | gōng      | work                        |                    |                                                                                                                  |
-|  49 | 己 |                |       | jǐ        | oneself                     | 已,巳              |                                                                                                                  |
+|  49 | 己 |                |       | jǐ        | oneself                     | 已 巳              |                                                                                                                  |
 |  50 | 巾 |                |       | jīn       | turban/scarf                |                    |                                                                                                                  |
 |  51 | 干 |                |       | gān       | oppose/dried                |                    |                                                                                                                  |
 |  52 | 幺 | 么             |       | yāo       | short/tiny                  |                    |                                                                                                                  |
@@ -88,14 +88,14 @@ Legend:
 |  55 | 廾 |                |       | gǒng      | two hands/arch              |                    |                                                                                                                  |
 |  56 | 弋 |                |       | yì        | shoot/arrow                 |                    |                                                                                                                  |
 |  57 | 弓 |                |       | gōng      | bow                         |                    |                                                                                                                  |
-|  58 | 彐 | 彑,⺕          |       | jì        | pig snout                   |                    |                                                                                                                  |
+|  58 | 彐 | 彑 ⺕          |       | jì        | pig snout                   |                    |                                                                                                                  |
 |  59 | 彡 |                |       | shān      | bristle/beard               |                    |                                                                                                                  |
 |  60 | 彳 |                |       | chì       | step                        |                    |                                                                                                                  |
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
-|  61 | 心 | 忄,⺗          |       | xīn       | heart                       |                    |                                                                                                                  |
+|  61 | 心 | 忄 ⺗          |       | xīn       | heart                       |                    |                                                                                                                  |
 |  62 | 戈 |                |       | gē        | halberd/spear               |                    |                                                                                                                  |
 |  63 | 戶 | 户             |       | hù        | door/house                  |                    |                                                                                                                  |
-|  64 | 手 | 扌,龵          |       | shǒu      | hand                        | 才                 |                                                                                                                  |
+|  64 | 手 | 扌 龵          |       | shǒu      | hand                        | 才                 |                                                                                                                  |
 |  65 | 支 |                |       | zhī       | branch                      |                    |                                                                                                                  |
 |  66 | 攴 | 攵             |       | pū        | rap                         |                    |                                                                                                                  |
 |  67 | 文 |                |       | wéi       | script/literature           |                    |                                                                                                                  |
@@ -116,25 +116,25 @@ Legend:
 |  82 | 毛 |                |       | máo       | fur/hair                    |                    |                                                                                                                  |
 |  83 | 氏 |                |       | shì       | clan                        |                    |                                                                                                                  |
 |  84 | 气 |                |       | qì        | steam/air                   |                    |                                                                                                                  |
-|  85 | 水 | 氺,氵          |       | shuǐ      | water                       |                    |                                                                                                                  |
+|  85 | 水 | 氺 氵          |       | shuǐ      | water                       |                    |                                                                                                                  |
 |  86 | 火 | 灬             |       | huǒ       | fire                        |                    |                                                                                                                  |
-|  87 | 爪 | ⺥,爫,⺤       |       | zhǎo/zhuǎ | claw                        |                    |                                                                                                                  |
+|  87 | 爪 | ⺥ 爫 ⺤       |       | zhǎo/zhuǎ | claw                        |                    |                                                                                                                  |
 |  88 | 父 |                |       | fù        | father                      |                    |                                                                                                                  |
 |  89 | 爻 |                |       | yáo       | Tiagrams                    |                    |                                                                                                                  |
 |  90 | 爿 | 丬             |       | qiáng     | half of tree trunk          |                    |                                                                                                                  |
 |  91 | 片 |                |       | piàn      | slice                       |                    |                                                                                                                  |
 |  92 | ⽛ | 牙             |       | yá        | tooth/fang                  |                    |                                                                                                                  |
-|  93 | 牛 | 牜,⺧          |       | niú       | cow                         |                    |                                                                                                                  |
+|  93 | 牛 | 牜 ⺧          |       | niú       | cow                         |                    |                                                                                                                  |
 |  94 | 犬 | 犭             |       | quǎn      | dog                         |                    |                                                                                                                  |
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
 |  95 | 玄 |                |       | zuán      | dark/profound               |                    |                                                                                                                  |
-|  96 | 玉 | ⺩             |       | yù        | jade                        | 王,玊 (-1 strokes) |                                                                                                                  |
+|  96 | 玉 | ⺩             |       | yù        | jade                        | 王 玊 (-1 strokes) |                                                                                                                  |
 |  97 | 瓜 |                |       | guā       | melon                       |                    |                                                                                                                  |
 |  98 | 瓦 |                |       | wǎ        | tile                        |                    |                                                                                                                  |
 |  99 | 甘 |                |       | gān       | sweet                       |                    |                                                                                                                  |
 | 100 | 生 |                |       | shēng     | life                        |                    |                                                                                                                  |
 | 101 | 用 |                |       | yòng      | use                         | 甩                 |                                                                                                                  |
-| 102 | 田 |                |       | tián      | rice paddy (field)          | 由,甲,申,甴,电     |                                                                                                                  |
+| 102 | 田 |                |       | tián      | rice paddy (field)          | 由 甲 申 甴 电     |                                                                                                                  |
 | 103 | 疋 | ⺪             |       | pǐ        | bolt of cloth               |                    |                                                                                                                  |
 | 104 | 疒 |                |       | nè/chuáng | sickness                    |                    |                                                                                                                  |
 | 105 | 癶 |                |       | bō        | footsteps/legs              |                    |                                                                                                                  |
@@ -145,7 +145,7 @@ Legend:
 | 110 | 矛 |                |       | máo       | spear                       |                    |                                                                                                                  |
 | 111 | 矢 |                |       | shǐ       | arrow                       |                    |                                                                                                                  |
 | 112 | 石 |                |       | shí       | stone                       |                    |                                                                                                                  |
-| 113 | 示 | 礻,⺬          |       | shì       | ancestor/veneration         |                    |                                                                                                                  |
+| 113 | 示 | 礻 ⺬          |       | shì       | ancestor/veneration         |                    |                                                                                                                  |
 | 114 | 禸 |                |       | róu       | track                       |                    |                                                                                                                  |
 | 115 | 禾 |                |       | hé        | grain                       |                    |                                                                                                                  |
 | 116 | 穴 |                |       | xué       | cave                        |                    |                                                                                                                  |
@@ -155,14 +155,14 @@ Legend:
 | 119 | 米 |                |       | mǐ        | rice                        |                    |                                                                                                                  |
 | 120 | 糸 | 糹             | 纟    | mì        | silk                        |                    |                                                                                                                  |
 | 121 | 缶 |                |       | fǒu       | jar                         |                    |                                                                                                                  |
-| 122 | 网 | 罓,罒,㓁,⺳,⺴ |       | wǎng      | net                         |                    | 𦉫 (⺵ as component) is variant form of 網, which means net.                                                     |
-| 123 | 羊 | ⺶,⺷          |       | yáng      | goat                        |                    | 𦍋 is variant form of 羋, which means baa! (the bleating of a sheep), and female sheep.                          |
+| 122 | 网 | 罓 罒 㓁 ⺳ ⺴ |       | wǎng      | net                         |                    | 𦉫 (⺵ as component) is variant form of 網, which means net.                                                     |
+| 123 | 羊 | ⺶ ⺷          |       | yáng      | goat                        |                    | 𦍋 is variant form of 羋, which means baa! (the bleating of a sheep), and female sheep.                          |
 | 124 | ⽻ | 羽             |       | yǔ        | feather                     |                    |                                                                                                                  |
 | 125 | 老 | 耂             |       | lǎo       | old                         | 考                 |                                                                                                                  |
 | 126 | 而 |                |       | ér        | and/but                     |                    |                                                                                                                  |
 | 127 | 耒 |                |       | lěi       | plow                        |                    |                                                                                                                  |
 | 128 | 耳 |                |       | ěr        | ear                         |                    |                                                                                                                  |
-| 129 | 聿 | ⺺,⺻          |       | yù        | brush                       |                    |                                                                                                                  |
+| 129 | 聿 | ⺺ ⺻          |       | yù        | brush                       |                    |                                                                                                                  |
 | 130 | 肉 | ⺼             |       | ròu       | meat                        |                    | The component form ⺼looks similar to radical no. 74 月.                                                         |
 | 131 | 臣 |                |       | chén      | minister/official           |                    |                                                                                                                  |
 | 132 | 自 |                |       | zì        | self                        |                    |                                                                                                                  |
@@ -173,7 +173,7 @@ Legend:
 | 137 | 舟 |                |       | zhōu      | boat                        |                    |                                                                                                                  |
 | 138 | 艮 |                |       | gèn       | stopping/stillness          |                    |                                                                                                                  |
 | 139 | 色 |                |       | sè        | color/form                  |                    |                                                                                                                  |
-| 140 | 艸 | ⺿,⻀          | ⺾    | cǎo       | grass                       |                    | Traditional form ⺿ has 2 horizontal strokes, simplified form ⺾ has 1.                                          |
+| 140 | 艸 | ⺿ ⻀          | ⺾    | cǎo       | grass                       |                    | Traditional form ⺿ has 2 horizontal strokes, simplified form ⺾ has 1.                                          |
 | 141 | 虍 |                |       | hū        | tiger                       | 虎 (+2 strokes)    |                                                                                                                  |
 | 142 | 虫 |                |       | huǐ/chóng | insect/worm                 |                    |                                                                                                                  |
 | 143 | 血 |                |       | xuè       | blood                       |                    |                                                                                                                  |
@@ -182,7 +182,7 @@ Legend:
 | 146 | 襾 | 覀             |       | yà        | cover/west                  | 西                 |                                                                                                                  |
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
 | 147 | 見 |                | 见    | jiàn      | see                         |                    |                                                                                                                  |
-| 148 | 角 | ⻆,⻇          |       | jiǎo      | horn                        |                    |                                                                                                                  |
+| 148 | 角 | ⻆ ⻇          |       | jiǎo      | horn                        |                    |                                                                                                                  |
 | 149 | 言 | 訁             | 讠    | yán       | speech                      |                    |                                                                                                                  |
 | 150 | 谷 |                |       | gǔ        | valley                      |                    |                                                                                                                  |
 | 151 | 豆 |                |       | dòu       | bean                        |                    |                                                                                                                  |
@@ -196,7 +196,7 @@ Legend:
 | 159 | 車 |                | 车    | shī       | cart/car                    |                    |                                                                                                                  |
 | 160 | 辛 |                |       | xīn       | bitter                      |                    |                                                                                                                  |
 | 161 | 辰 |                |       | chén      | morning                     |                    |                                                                                                                  |
-| 162 | 辵 | ⻍,⻎          | ⻌    | chuò      | walk                        |                    |                                                                                                                  |
+| 162 | 辵 | ⻍ ⻎          | ⻌    | chuò      | walk                        |                    |                                                                                                                  |
 | 163 | 邑 | ⻏             |       | yì        | city                        |                    | The component form of radical 163 (⻏) appear on the right while component form of radical 170 (⻖) on the left. |
 | 164 | 酉 |                |       | yǒu       | wine/alcohol                |                    |                                                                                                                  |
 | 165 | 釆 |                |       | biàn      | distinguish                 |                    |                                                                                                                  |
@@ -205,7 +205,7 @@ Legend:
 | 167 | 金 | 釒             | 钅    | jīn       | gold/metal                  |                    |                                                                                                                  |
 | 168 | 長 | 镸             | 长    | cháng     | long/grow                   |                    |                                                                                                                  |
 | 169 | 門 |                | 门    | mén       | gate/door                   |                    | Kangxi radical 191 鬥 and 169 門 were merged to 门 during the simplification.                                    |
-| 170 | 阜 | ⻕,⻖          |       | fù        | mound/dam                   |                    | The component form of radical 163 (⻏) appear on the right while component form of radical 170 (⻖) on the left. |
+| 170 | 阜 | ⻕ ⻖          |       | fù        | mound/dam                   |                    | The component form of radical 163 (⻏) appear on the right while component form of radical 170 (⻖) on the left. |
 | 171 | 隶 |                |       | lì        | slave                       |                    |                                                                                                                  |
 | 172 | 隹 |                |       | zhuī      | small bird                  |                    |                                                                                                                  |
 | 173 | 雨 | ⻗             |       | yǔ        | rain                        |                    |                                                                                                                  |
@@ -220,7 +220,7 @@ Legend:
 | 181 | 頁 |                | 页    | yè        | leaf/head/sheet/page        |                    |                                                                                                                  |
 | 182 | 風 |                | 风    | fēng      | wind                        |                    |                                                                                                                  |
 | 183 | 飛 |                | 飞    | fēi       | fly                         |                    |                                                                                                                  |
-| 184 | 食 | 飠,⻞          | 饣    | shí       | eat/food                    |                    |                                                                                                                  |
+| 184 | 食 | 飠 ⻞          | 饣    | shí       | eat/food                    |                    |                                                                                                                  |
 | 185 | 首 | ⻡             |       | shǒu      | head                        |                    |                                                                                                                  |
 | 186 | 香 |                |       | xiāng     | fragrant                    |                    |                                                                                                                  |
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
@@ -255,8 +255,8 @@ Legend:
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
 | 211 | 齒 | ⻭             | 齿    | chǐ       | teeth                       |                    |                                                                                                                  |
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
-| 212 | 龍 |                | 龙,⻯ | lóng      | dragon                      |                    |                                                                                                                  |
-| 213 | 龜 | 亀,⻱          | 龟    | guī       | turtle                      |                    |                                                                                                                  |
+| 212 | 龍 |                | 龙 ⻯ | lóng      | dragon                      |                    |                                                                                                                  |
+| 213 | 龜 | 亀 ⻱          | 龟    | guī       | turtle                      |                    |                                                                                                                  |
 |-----+----+----------------+-------+-----------+-----------------------------+--------------------+------------------------------------------------------------------------------------------------------------------|
 | 214 | 龠 |                |       | yuè       | flute                       |                    |                                                                                                                  |
 
